@@ -1,0 +1,10 @@
+"Modality","Algorithm","Normal","Easy","Medium","Hard","Average"
+"Visible","HOG",96.36,85.15,41.82,5.82,57.29
+"Infrared","HOG",71.43,NA,14.29,NA,28.57
+"Thermal","HOG",57.14,NA,42.86,9.52,36.51
+"Visible","Haarcascade",94.55,80.3,56.23,31.82,65.73
+"Infrared","Haarcascade",85.71,NA,64.29,14.29,54.76
+"Thermal","Haarcascade",85.71,NA,78.57,33.33,65.87
+"Visible","MTCNN",100,96.06,89.09,52.21,84.34
+"Infrared","MTCNN",42.86,NA,14.29,NA,14.29
+"Thermal","MTCNN",14.29,NA,7.14,NA,5.36

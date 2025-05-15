@@ -1,0 +1,3 @@
+"Modality","Algorithm","Normal","Easy","Medium","Hard","Categorical.Average"
+"Visible","FaceNet",97.73,94.19,84.52,47.3,80.93
+"Visible","ArcFace",100,100,99.31,80.2,94.88
