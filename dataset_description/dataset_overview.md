@@ -8,8 +8,8 @@ This dataset was created as part of the dissertation titled **"Multibiometric Fa
 
 - **Total Subjects**: 22
 - **Visible Images per Subject**: 80  
-- **Thermal/Infrared Images per Subject**: 42 each (only for 7 selected subjects)
-- **Total Images**: 1800+ visible + 500+ thermal/infrared
+- **Thermal/Infrared Images**: 42 each 
+
 
 ---
 
@@ -45,25 +45,25 @@ Grouped by difficulty:
 - `no`: No occlusion
 
 ### 🟢 Easy
-- `ex`: Eyeglasses  
-- `sp`: Sunglasses  
+- `ex`: expressions 
+- `sp`: spectacles  
 - `ca`: Cap
 
 ### 🟠 Medium
 - `to`: Towel  
 - `ma`: Mask  
 - `ga`: Goggles  
-- `ts`: Turban & Sunglasses  
-- `cs`: Cap & Sunglasses  
-- `ms`: Mask & Sunglasses  
+- `ts`: Towel & Spectacles  
+- `cs`: Cap & Spectacles  
+- `ms`: Mask & Spectacles  
 - `cg`: Cap & Goggles
 
 ### 🔴 Hard
 - `cm`: Cap & Mask  
 - `gt`: Goggles & Towel  
 - `gm`: Goggles & Mask  
-- `gz`: Goggles & Shawl  
-- `sz`: Sunglasses & Shawl
+- `gz`: Goggles & cap & mask  
+- `sz`: Spectacles & cap & mask
 
 ---
 
